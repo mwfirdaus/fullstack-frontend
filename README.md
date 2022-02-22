@@ -9,7 +9,10 @@ It works by using a packet routing network that follows Internet Protocol (IP) a
 
 ## Servers
 It serves content and also respond request, it serves something back.
-
+```sh
+MACHTWATCHs-MacBook-Pro-4 fullstack-frontend % node listenServer.js 
+Server started! listening on port 8080
+```
 
 ## SSH
 The Secure Shell Protocol is a cryptographic network protocol for operating network services securely over an unsecured network. Its most notable applications are remote login and command-line execution. SSH applications are based on a client–server architecture, connecting an SSH client instance with an SSH server.
