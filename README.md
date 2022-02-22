@@ -10,20 +10,15 @@ It works by using a packet routing network that follows Internet Protocol (IP) a
 ## Servers
 It serves content and also respond request, it serves something back.
 
-```sh
-yusuf@Yusufs-MacBook-Pro full-stack-frontend % node simpleServer.js 
-Server started! listening on port 8080
-```
-<img width="258" alt="image" src="https://user-images.githubusercontent.com/85268263/153993623-9c5ce85d-b7bd-40f6-bb6b-54a048664f27.png">
 
 ## SSH
 The Secure Shell Protocol is a cryptographic network protocol for operating network services securely over an unsecured network. Its most notable applications are remote login and command-line execution. SSH applications are based on a client–server architecture, connecting an SSH client instance with an SSH server.
 
 ```sh
-yusuf@Yusufs-MacBook-Pro .ssh % ls
+MACHTWATCHs-MacBook-Pro-4 .ssh % ls
 id_rsa		id_rsa.pub	known_hosts
-yusuf@Yusufs-MacBook-Pro .ssh % vim id_rsa
-yusuf@Yusufs-MacBook-Pro .ssh % vim id_rsa.pub
+MACHTWATCHs-MacBook-Pro-4 .ssh % vim id_rsa
+MACHTWATCHs-MacBook-Pro-4 .ssh % vim id_rsa.pub
 ```
 
 ## Nginx
